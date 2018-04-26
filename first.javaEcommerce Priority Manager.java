@@ -4,7 +4,7 @@ public class first  {
 	// the 
 public static void main(String[] args) { 
 
-	// proratty
+	// Priority
 	PriorityQueue<String> pq = new PriorityQueue<String>();
 	
 	pq.offer("Ram Lal");
